@@ -29,9 +29,11 @@ nav ul li a:hover {
 }
 
 /*/////////////////////////////////////////////////////////////////////////*/
+/*---------#1*----------*/
 body{  
     background-image: url("../media/dotz.jpg");
 }
+/*---------#2*----------*/
 img{
   justify-content: center;
   margin-left:4.5%;
@@ -42,6 +44,7 @@ img{
   border-color: #ff98c8;
   border-radius: 2rem;
 }
+/*---------#3*----------*/
 h1{
     font-family: 'Lucida Handwriting', cursive, bold;
     color: #882278;
@@ -49,7 +52,7 @@ h1{
     justify-content: center;
     text-shadow: .1em .1em #3099ce;
 }
-
+/*---------#4*----------*/
 h3 {
     font-size: 3rem;
     text-align: center;
@@ -58,6 +61,7 @@ h3 {
     font-family: 'Lucida Handwriting', cursive;
     text-shadow: .1em .1em #ff9ee0;
 }
+/*---------#5*----------*/
 video{
   text-align: center;
   justify-content: center;

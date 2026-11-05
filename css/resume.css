@@ -30,17 +30,38 @@ nav ul li a:hover {
 }
 
 /*/////////////////////////////////////////////////////////////////////////*/
+/*---------#1*----------*/
 body{  
   background-color: #f0e6d2;
 }
-.resume { 
-  display: block;
-  font-family: 'Times New Roman', monospace;
-  color: #333;
-  padding-left: 70px;
-}
-
+/*---------#2*----------*/
 img {
     float: right;
     padding-right: 70px;
 }
+/*---------#3*----------*/
+h1 {
+    font-family: 'Times New Roman', bold;
+    color: #070707;
+    text-align: center;
+    justify-content: center;
+}
+/*---------#4*----------*/
+h2{
+  font-family: 'Times New Roman', monospace;
+  font-size:15px;
+  color: #161515;
+}
+/*---------#5*----------*/
+li{
+  font-family: 'Times New Roman', monospace;
+  color: #161515;
+  margin-left: 50px;
+}
+/*---------#6*----------*/
+p{
+  font-family: 'Times New Roman', monospace;
+  color: #161515;
+  text-align: center;
+}
+
